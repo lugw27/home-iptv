@@ -8,6 +8,7 @@ $r=Invoke-RestMethod -Method get -Uri $url
 Copy-Item -Path $file -Destination $new_file -Force
 $r|Add-Content -Path $new_file -Force
 
-Get-Content -Path $new_file
+pwd
+ls
 
 "end"
