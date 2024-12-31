@@ -1,0 +1,17 @@
+name: test
+on:
+  schedule:
+    - cron: '0 22 * * *'
+    - cron: '0 10 * * *'
+
+jobs:
+  update-m3u:
+    name: update m3u
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: run
+        shell: pwsh
+        run: |
+          run.ps1
+          
