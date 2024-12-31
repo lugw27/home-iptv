@@ -18,5 +18,6 @@ jobs:
         run: |
           "started"
           test-path iptv.m3u
+          ./run.ps1
 
           
