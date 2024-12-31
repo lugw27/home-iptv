@@ -19,6 +19,13 @@ jobs:
           "started"
           test-path iptv.m3u
           ./run.ps1
-      # Commit all changed files back to the repository
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Commit changes
+        run: |
+          git config --global user.name "lugw27"
+          git config --global user.email "your-email@example.com"
+          git commit -m "自动提交更新的文件"
+        
+      - name: Push changes
+        run: |
+          git push origin main  
           
