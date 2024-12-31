@@ -323,6 +323,52 @@ http://192.168.99.254:6666/udp/239.77.0.182:5146/
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.v1.mk/fy.xml"
 
 
+
+#EXTINF:-1,tvg-id="启航2025总台跨年晚会" tvg-name="启航2025总台跨年晚会" tvg-logo="" group-title="Judy「自用」",五月天2025线上跨年演唱会
+https://www.mytvsuper.com.mp/mgtv.m3u8
+
+#EXTINF:-1,tvg-id="张杰跨年演唱会抖音特别场" tvg-name="张杰跨年演唱会抖音特别场" tvg-logo="" group-title="Judy「自用」",张杰跨年演唱会抖音特别场➊线路
+https://caoshiyizhongzhiwu.vip-tptv.xyz/douyin/97085749?stream=hls
+#EXTINF:-1,tvg-id="张杰跨年演唱会抖音特别场" tvg-name="张杰跨年演唱会抖音特别场" tvg-logo="" group-title="Judy「自用」",张杰跨年演唱会抖音特别场➋线路
+https://caoshiyizhongzhiwu.vip-tptv.xyz/douyin/97085749?stream=flv
+
+
+#EXTINF:-1,tvg-id="哔哩哔哩2025晚会" tvg-name="哔哩哔哩2025晚会" tvg-logo="https://i1.hdslb.com/bfs/face/af516a19b3ac3840c71bcdf27f3e448493dc6dd8.jpg" group-title="Judy「自用」",哔哩哔哩2025晚会➊线路
+https://caoshiyizhongzhiwu.vip-tptv.xyz/bilibili/1231?platform=hls&line=first&quality=4
+#EXTINF:-1,tvg-id="哔哩哔哩2025晚会" tvg-name="哔哩哔哩2025晚会" tvg-logo="https://i1.hdslb.com/bfs/face/af516a19b3ac3840c71bcdf27f3e448493dc6dd8.jpg" group-title="Judy「自用」",哔哩哔哩2025晚会➋线路
+https://caoshiyizhongzhiwu.vip-tptv.xyz/bilibili/1231?platform=flv&line=first&quality=4
+
+
+
+#EXTINF:-1,tvg-id="湖南卫视芒果TV跨年晚会" tvg-name="湖南卫视芒果TV跨年晚会" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="Judy「自用」",湖南卫视芒果TV跨年晚会➊线路
+https://www.mytvsuper.com.mp/mgtv1.m3u8
+
+#EXTINF:-1,tvg-id="湖南卫视芒果TV跨年晚会" tvg-name="湖南卫视芒果TV跨年晚会" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="Judy「自用」",湖南卫视芒果TV跨年晚会➋线路
+https://iptv.vip-tptv.xyz/youtube.php?id=_VNG91VXwh8
+
+
+#EXTINF:-1,tvg-id="江苏卫视2025跨年晚会" tvg-name="江苏卫视2025跨年晚会" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="Judy「自用」",江苏卫视2025跨年晚会
+https://www.mytvsuper.com.mp/tengxun-jiangsu.m3u8
+
+
+#EXTINF:-1,tvg-id="浙江卫视2025跨年晚会" tvg-name="浙江卫视2025跨年晚会" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="Judy「自用」",浙江卫视2025跨年晚会
+https://www.mytvsuper.com.mp/tengxun-zhejiang.m3u8
+
+#EXTINF:-1,tvg-id="东方卫视2025跨年晚会" tvg-name="东方卫视2025跨年晚会" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="Judy「自用」",东方卫视2025跨年晚会
+https://www.mytvsuper.com.mp/tengxun-dongfang.m3u8
+
+#EXTINF:-1,tvg-id="北京卫视2025跨年晚会" tvg-name="北京卫视2025跨年晚会" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="Judy「自用」",北京卫视2025跨年晚会
+https://www.mytvsuper.com.mp/tengxun-beijing.m3u8
+
+#EXTINF:-1,tvg-id="启航2025总台跨年晚会" tvg-name="启航2025总台跨年晚会" tvg-logo="" group-title="Judy「自用」",启航2025总台跨年晚会
+https://esps.6721.liveplay.ilive.qq.com/live/6721_53973a6d2f7357d95cd82adf2bbd36ed_hst1080p.flv?txSecret=3f2773fc82e782ba64c3587482eeb13a&txTime=677521D8
+
+
+
+
+
+
+
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="Judy「自用」",广东体育
 https://iptv.vip-tptv.xyz/cao.php?id=mediacorp6
 
