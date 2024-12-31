@@ -22,13 +22,13 @@ jobs:
         shell: pwsh
         run: |
           ./run.ps1
-      - name: Commit changes
+      - name: push changes
         run: |
           git config --global user.name "lugw27"
           git config --global user.email "your-email@example.com"
+          git add .
           git commit -am "自动提交更新的文件"
+          git push 
         
-      - name: Push changes
-        run: |
-          git push  
+ 
           
