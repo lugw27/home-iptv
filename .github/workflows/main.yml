@@ -16,5 +16,5 @@ jobs:
       - name: run
         shell: pwsh
         run: |
-          run.ps1
+          ./run.ps1
           
