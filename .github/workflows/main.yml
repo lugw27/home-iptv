@@ -12,12 +12,12 @@ jobs:
     name: update m3u
     runs-on: ubuntu-latest
     steps:
+      - name: checkout
       - uses: actions/checkout@v4
+
       - name: run
         shell: pwsh
         run: |
-          "started"
-          test-path iptv.m3u
           ./run.ps1
       - name: Commit changes
         run: |
