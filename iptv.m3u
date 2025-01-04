@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.v1.mk/fy.xml"
 
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="本地-iptv",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="本地-iptv",广东珠江超清
 http://192.168.99.254:6666/udp/239.77.0.114:5146/
 #EXTINF:-1,tvg-id="广东4K" tvg-name="广东4K" tvg-logo="https://epg.v1.mk/logo/广东4K.png" group-title="本地-iptv",广东4K超高清
