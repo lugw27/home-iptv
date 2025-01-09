@@ -43,74 +43,38 @@ http://192.168.99.254:6666/udp/239.77.0.137:5146/
 http://192.168.99.254:6666/udp/239.77.0.175:5146/
 #EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="本地-iptv",CCTV-3高清
 http://192.168.99.254:6666/udp/239.77.0.169:5146/
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="本地-iptv",CCTV-3综艺
-http://192.168.99.254:6666/udp/239.77.0.32:5146/
 #EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="本地-iptv",CCTV-4高清
 http://192.168.99.254:6666/udp/239.77.0.78:5146/
-#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="本地-iptv",CCTV-4中文国际
-http://192.168.99.254:6666/udp/239.77.0.33:5146/
 #EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="本地-iptv",CCTV4中文国际美洲高清
 http://192.168.99.254:6666/udp/239.253.43.121:5146/
 #EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="本地-iptv",CCTV4中文国际欧洲高清
 http://192.168.99.254:6666/udp/239.253.43.120:5146/
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="本地-iptv",CCTV-5超清
-http://192.168.99.254:6666/udp/239.77.0.177:5146/
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="本地-iptv",CCTV-5高清
 http://192.168.99.254:6666/udp/239.77.0.170:5146/
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="本地-iptv",CCTV-5体育
-http://192.168.99.254:6666/udp/239.77.0.34:5146/
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="本地-iptv",CCTV5＋体育高清-测试
 http://192.168.99.254:6666/udp/239.77.0.87:5146/
-#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="本地-iptv",CCTV-6超清
-http://192.168.99.254:6666/udp/239.77.0.178:5146/
 #EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="本地-iptv",CCTV-6电影
 http://192.168.99.254:6666/udp/239.77.0.35:5146/
-#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="本地-iptv",CCTV-6高清
-http://192.168.99.254:6666/udp/239.77.0.171:5146/
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="本地-iptv",CCTV-7高清测试
-http://192.168.99.254:6666/udp/239.77.0.138:5146/
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="本地-iptv",CCTV-7国防军事
-http://192.168.99.254:6666/udp/239.77.0.36:5146/
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="本地-iptv",CCTV-7军事农业高清
 http://192.168.99.254:6666/udp/239.77.0.138:5146/
-#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="本地-iptv",CCTV-8超清
-http://192.168.99.254:6666/udp/239.77.0.181:5146/
-#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="本地-iptv",CCTV-8电视剧
-http://192.168.99.254:6666/udp/239.77.0.37:5146/
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="本地-iptv",CCTV-8高清
 http://192.168.99.254:6666/udp/239.77.0.172:5146/
 #EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="本地-iptv",CCTV-9高清测试
 http://192.168.99.254:6666/udp/239.77.0.135:5146/
-#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="本地-iptv",CCTV-9纪录
-http://192.168.99.254:6666/udp/239.77.0.38:5146/
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="本地-iptv",CCTV-10高清测试
-http://192.168.99.254:6666/udp/239.77.0.134:5146/
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="本地-iptv",CCTV-10科教高清
 http://192.168.99.254:6666/udp/239.77.0.134:5146/
 #EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="本地-iptv",CCTV-11高清
 http://192.168.99.254:6666/udp/239.77.1.238:5146/
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="本地-iptv",CCTV-11戏曲
-http://192.168.99.254:6666/udp/239.77.0.40:5146/
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="本地-iptv",CCTV-12高清测试
-http://192.168.99.254:6666/udp/239.77.0.136:5146/
 #EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="本地-iptv",CCTV-12社会与法
 http://192.168.99.254:6666/udp/239.77.0.41:5146/
 #EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="本地-iptv",CCTV-13高清
 http://192.168.99.254:6666/udp/239.77.0.188:5146/
-#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="本地-iptv",CCTV-13新闻
-http://192.168.99.254:6666/udp/239.77.0.42:5146/
 #EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="本地-iptv",CCTV-14高清测试
 http://192.168.99.254:6666/udp/239.77.0.133:5146/
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="本地-iptv",CCTV-14少儿
-http://192.168.99.254:6666/udp/239.77.0.43:5146/
 #EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="本地-iptv",CCTV-15高清
 http://192.168.99.254:6666/udp/239.77.1.239:5146/
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="本地-iptv",CCTV-15音乐
-http://192.168.99.254:6666/udp/239.77.0.44:5146/
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="本地-iptv",CCTV-16高清
 http://192.168.99.254:6666/udp/239.77.0.165:5146/
-#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="本地-iptv",CCTV-17农业
-http://192.168.99.254:6666/udp/239.77.0.115:5146/
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="本地-iptv",CCTV-17农业高清
 http://192.168.99.254:6666/udp/239.77.0.198:5146/
 #EXTINF:-1,tvg-id="CCTV4K(1)" tvg-name="CCTV4K(1)" tvg-logo="https://epg.v1.mk/logo/CCTV4K(1).png" group-title="本地-iptv",CCTV4K-25P
