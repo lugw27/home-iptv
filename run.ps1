@@ -13,6 +13,8 @@ foreach ($url in $urls){
     $r=$r -replace 'group-title=\".*\",','group-title="hkdvb",'
     #替换"Jade "
     $r=$r -replace 'Jade ',''
+    #替换"[直播]"
+    $r=$r -replace '[直播]',''
   }
   $r|Add-Content -Path $new_file -Force
 }
