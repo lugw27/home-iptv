@@ -1,4 +1,4 @@
-name: test
+name: update
 on:
   schedule:
     - cron: '0 22 * * *'
