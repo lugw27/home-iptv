@@ -21,7 +21,7 @@ jobs:
       - name: run
         shell: pwsh
         env:
-          hkdvb_token: ${{ secrets.hkdvb_token }}
+          hkdvb_token: ${{ secrets.HKDVB_TOKEN  }}
         run: |
           ./run.ps1
       - name: push changes
