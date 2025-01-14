@@ -11,6 +11,7 @@ foreach ($url in $urls){
   $r|Add-Content -Path $new_file -Force
 }
 
+"###更新时间：$(get-date -format "yyyy_MM_dd HH:mm:ss.fff")"|Add-Content -Path $new_file -Force
 pwd
 ls
 
