@@ -14,7 +14,7 @@ foreach ($url in $urls){
     #替换"Jade "
     $r=$r -replace 'Jade ',''
     #替换"[直播]"
-    $r=$r -replace '[直播]',''
+    $r=$r -replace '\[直播\]',''
   }
   $r|Add-Content -Path $new_file -Force
 }
