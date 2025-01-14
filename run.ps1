@@ -8,6 +8,12 @@ $urls="https://live.hkdvb.com/hls/playlist.m3u?token=$hkdvb_token",'https://www.
 Copy-Item -Path $file -Destination $new_file -Force
 foreach ($url in $urls){
   $r=Invoke-RestMethod -Method get -Uri $url
+  if ($url.contains('live.hkdvb.com')){
+    #修改group-title
+    $r=$r -replace 'group-title=\".*\",','group-title="hkdvb",'
+    #替换"Jade "
+    $r=$r -replace 'Jade ',''
+  }
   $r|Add-Content -Path $new_file -Force
 }
 
