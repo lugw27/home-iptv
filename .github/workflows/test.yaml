@@ -23,7 +23,8 @@ jobs:
         env:
           hkdvb_token: ${{ secrets.hkdvb_token }}
         run: |
-          $env:hkdvb_token
+          $a=$env:hkdvb_token
+          write-host $a
         
  
           
