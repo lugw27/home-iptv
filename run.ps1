@@ -13,10 +13,10 @@ foreach ($k in $urls.keys){
 
   try{
     $r=Invoke-RestMethod -Method get -Uri $url -ErrorAction SilentlyContinue
-    $r|Out-File "/cache/$k.cache"
+    $r|Out-File "./cache/$k.cache"
   }
   catch{
-    $r=Get-Content -Path "/cache/$k.cache" -Raw
+    $r=Get-Content -Path "./cache/$k.cache" -Raw
   }
 
   if ($url.contains('live.hkdvb.com')){
