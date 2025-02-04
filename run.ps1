@@ -1,8 +1,7 @@
 $file='iptv.m3u'
 $new_file="iptv-udpate.m3u"
 
-$hkdvb_token=$env:hkdvb_token
-$urls="https://live.hkdvb.com/hls/playlist.m3u?token=$hkdvb_token",'https://www.mytvsuper.com.mp/m3u/Live.m3u'
+$urls="https://live.hkdvb.com/hls/playlist.m3u?token=560806621546352",'https://www.mytvsuper.com.mp/m3u/Live.m3u'
 
 "started"
 Copy-Item -Path $file -Destination $new_file -Force
