@@ -9,13 +9,17 @@ $urls=[ordered]@{
 "started"
 Copy-Item -Path $file -Destination $new_file -Force
 foreach ($k in $urls.keys){
+  write-host $k
+
   $url=$urls[$k]
 
   try{
     $r=Invoke-RestMethod -Method get -Uri $url -ErrorAction SilentlyContinue
+    write-host "Invoke-RestMethod 成功"
     $r|Out-File "./cache/$k.cache"
   }
   catch{
+    write-host "Invoke-RestMethod 失败"
     $r=Get-Content -Path "./cache/$k.cache" -Raw
   }
 
@@ -31,7 +35,5 @@ foreach ($k in $urls.keys){
 }
 
 "###更新时间：$((get-date).AddHours(8).ToString('yyyy_MM_dd HH:mm:ss.fff'))"|Add-Content -Path $new_file -Force
-pwd
-ls
 
 "end"
