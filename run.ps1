@@ -16,7 +16,7 @@ foreach ($k in $urls.keys){
   try{
     $r=Invoke-RestMethod -Method get -Uri $url -ErrorAction SilentlyContinue
     write-host "Invoke-RestMethod 成功"
-    $r|Out-File "./cache/$k.cache"
+    $r|Out-File "./cache/$k.cache" -force
   }
   catch{
     write-host "Invoke-RestMethod 失败"
