@@ -3,7 +3,7 @@ $new_file="iptv-udpate.m3u"
 
 $urls=[ordered]@{
     "hkdvb"="https://live.hkdvb.com/hls/playlist.m3u?token=560806621546352"
-    "judy"="https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=560806621406341"
+    #"judy"="https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=560806621406341"
 }
 
 "started"
