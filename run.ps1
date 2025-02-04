@@ -3,15 +3,22 @@ $new_file="iptv-udpate.m3u"
 
 $urls=[ordered]@{
     "hkdvb"="https://live.hkdvb.com/hls/playlist.m3u?token=560806621546352"
-    "judy"="https://www.mytvsuper.com.mp/m3u/Live.m3u"
+    #"judy"="https://www.mytvsuper.com.mp/m3u/Live.m3u"
 }
 
 "started"
 Copy-Item -Path $file -Destination $new_file -Force
 foreach ($k in $urls.keys){
   $url=$urls[$k]
-  
-  $r=Invoke-RestMethod -Method get -Uri $url
+
+  try{
+    $r=Invoke-RestMethod -Method get -Uri $url -ErrorAction SilentlyContinue
+    $r|Out-File "/cache/$k.cache"
+  }
+  catch{
+    $r=Get-Content -Path "/cache/$k.cache" -Raw
+  }
+
   if ($url.contains('live.hkdvb.com')){
     #修改group-title
     $r=$r -replace 'group-title=\".*\",','group-title="hkdvb",'
