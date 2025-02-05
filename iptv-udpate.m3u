@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.v1.mk/fy.xml"
 
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="本地-iptv",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="本地-iptv",广东珠江超清
 http://192.168.99.254:6666/udp/239.77.0.114:5146/
 #EXTINF:-1,tvg-id="广东4K" tvg-name="广东4K" tvg-logo="https://epg.v1.mk/logo/广东4K.png" group-title="本地-iptv",广东4K超高清
@@ -39,8 +37,6 @@ http://192.168.99.254:6666/udp/239.253.43.71:5146/
 http://192.168.99.254:6666/udp/239.77.0.129:5146/
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="本地-iptv",CCTV-2财经高清
 http://192.168.99.254:6666/udp/239.77.0.137:5146/
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="本地-iptv",CCTV-3超清
-http://192.168.99.254:6666/udp/239.77.0.175:5146/
 #EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="本地-iptv",CCTV-3高清
 http://192.168.99.254:6666/udp/239.77.0.169:5146/
 #EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="本地-iptv",CCTV-4高清
@@ -282,7 +278,8 @@ http://192.168.99.254:6666/udp/239.77.1.249:5146/
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="本地-iptv",重庆卫视
 http://192.168.99.254:6666/udp/239.77.0.182:5146/
 
-
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="自定义",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 
 #EXTM3U x-tvg-url="https://live.hkdvb.com/epg/full.xml"
 #EXTINF:-1 group-title="hkdvb", {TVB}    無綫電視
@@ -431,4 +428,4 @@ https://live.hkdvb.com/hls/live/710.m3u8?token=560806621546352
 #EXTINF:-1 tvg-id="711" tvg-name="SPOTV 2" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="hkdvb", SPOTV 2
 https://live.hkdvb.com/hls/live/711.m3u8?token=560806621546352
 
-###更新时间：2025_02_05 06:18:20.630
+###更新时间：2025_02_05 18:21:39.291
