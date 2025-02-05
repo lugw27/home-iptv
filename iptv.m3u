@@ -37,8 +37,6 @@ http://192.168.99.254:6666/udp/239.253.43.71:5146/
 http://192.168.99.254:6666/udp/239.77.0.129:5146/
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="本地-iptv",CCTV-2财经高清
 http://192.168.99.254:6666/udp/239.77.0.137:5146/
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="本地-iptv",CCTV-3超清
-http://192.168.99.254:6666/udp/239.77.0.175:5146/
 #EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="本地-iptv",CCTV-3高清
 http://192.168.99.254:6666/udp/239.77.0.169:5146/
 #EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="本地-iptv",CCTV-4高清
