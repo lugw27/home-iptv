@@ -1,6 +1,8 @@
 $file='iptv.m3u'
 $new_file="iptv-udpate.m3u"
 
+./suxuang-ipv4.ps1
+
 $urls=[ordered]@{
     "hkdvb"="https://live.hkdvb.com/hls/playlist.m3u?token=560806621575418"
     #"judy"="https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=560806621406341"
