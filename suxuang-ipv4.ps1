@@ -1,3 +1,7 @@
+##提取m3u的"#港澳台频道"，deepseek写的
+
+
+
 $url = "https://github.com/suxuang/myIPTV/raw/main/ipv4.m3u"
 $outputFile = "./suxuang-ipv4.m3u"
 
