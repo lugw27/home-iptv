@@ -23,7 +23,7 @@ jobs:
         env:
           hkdvb_token: ${{ secrets.HKDVB_TOKEN  }}
         run: |
-          ./suxuang-ipv4.ps1
+          ./run.ps1
       - name: push changes
         run: |
           git config --global user.name "lugw27"
