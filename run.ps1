@@ -4,8 +4,8 @@ $new_file="iptv-udpate.m3u"
 ./suxuang-ipv4.ps1
 
 $urls=[ordered]@{
-    "hkdvb"="https://live.hkdvb.com/hls/playlist.m3u?token=560806621575418"
-    "suxuang-港澳台"="./suxuang-ipv4.m3u"
+  "suxuang-港澳台"="./suxuang-ipv4.m3u"
+  "hkdvb"="https://live.hkdvb.com/hls/playlist.m3u?token=560806621575418"
 }
 
 "started"
