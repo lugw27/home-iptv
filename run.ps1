@@ -2,10 +2,12 @@ $file='iptv.m3u'
 $new_file="iptv-udpate.m3u"
 
 ./suxuang-ipv4.ps1
+./aktv.m3u
 
 $urls=[ordered]@{
   "suxuang-港澳台"="./suxuang-ipv4.m3u"
-  "hkdvb"="./hkdvb.m3u"
+  #"hkdvb"="./hkdvb.m3u"
+  "aktv"="./aktv.m3u"
 }
 
 "started"
