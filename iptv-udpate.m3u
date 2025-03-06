@@ -440,8 +440,6 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]TVB Plus
 http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]TVBS-新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]tvN
 http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]中天新聞台
@@ -478,6 +476,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Love Nature HD
 http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]Love_The_Planet
+http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]无线新闻台(北美)
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]東森新聞
@@ -500,6 +500,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Thrill
 http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]Xite_Hits
+http://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]ZooMoo
 http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]亞洲新聞台
@@ -509,4 +511,4 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]無線衛星新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 
-###更新时间：2025_03_06 18:23:48.917
+###更新时间：2025_03_07 06:19:20.700
