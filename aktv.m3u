@@ -87,6 +87,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]amc電影台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]HITS頻道
+http://aktv_stream1.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]TVBS精采台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]三立綜合台
