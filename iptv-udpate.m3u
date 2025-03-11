@@ -586,6 +586,8 @@ http://aktv_stream1.m16tv.cfd/stream/tuntun/disneychannel/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Love Nature 4K
 http://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]POPC
+http://aktv_stream1.m16tv.cfd/stream/tuntun/popc/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Red Bull Sports
 http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]緯來體育
@@ -595,4 +597,4 @@ http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]viuTV
 http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-###更新时间：2025_03_11 06:19:29.162
+###更新时间：2025_03_11 18:24:03.974
