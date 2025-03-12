@@ -284,4 +284,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1,tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="自定义",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1,tvg-id="TVB J1" tvg-name="TVB J1" tvg-logo="https://epg.v1.mk/logo/TVBJ1.png" group-title="自定义",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
 
