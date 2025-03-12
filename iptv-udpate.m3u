@@ -279,9 +279,13 @@ http://192.168.99.254:6666/udp/239.77.1.249:5146/
 http://192.168.99.254:6666/udp/239.77.0.182:5146/
 
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="自定义",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="自定义",无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1,tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="自定义",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1,tvg-id="TVB J1" tvg-name="TVB J1" tvg-logo="https://epg.v1.mk/logo/TVBJ1.png" group-title="自定义",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
 
 #港澳台频道
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
@@ -590,9 +594,11 @@ http://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]緯來體育
 http://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]翡翠台 4K
+http://aktv_stream1.m16tv.cfd/stream/tuntun/4k/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]NTV NEWS 24
 http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]viuTV
 http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-###更新时间：2025_03_12 06:19:21.775
+###更新时间：2025_03_12 18:23:15.866
