@@ -295,7 +295,7 @@ http://ttkx.cc:1380/653哈哈/fh.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰香港
 http://ttkx.cc:1380/653哈哈/fh.php?id=fhhk
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文 1080P
-http://cdn.132.us.kg/live/fhzw/stream.m3u8
+http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="港澳台频道",凤凰资讯 1080P
 http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png" group-title="港澳台频道",凤凰电影
@@ -592,8 +592,6 @@ http://aktv_stream1.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Red Bull Sports
 http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]緯來體育
-http://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]翡翠台 4K
 http://aktv_stream1.m16tv.cfd/stream/tuntun/4k/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]NTV NEWS 24
@@ -601,4 +599,4 @@ http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]viuTV
 http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-###更新时间：2025_03_13 06:19:41.803
+###更新时间：2025_03_13 18:23:40.766
