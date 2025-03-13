@@ -488,7 +488,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]東森新聞
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]Animax(HK)
+#EXTINF:-1 group-title="aktv",[aktv]Animax(SGP)
 http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]DW
 http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
@@ -599,4 +599,4 @@ http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]viuTV
 http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-###更新时间：2025_03_13 18:23:40.766
+###更新时间：2025_03_14 06:19:02.652
