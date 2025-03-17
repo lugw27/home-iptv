@@ -516,12 +516,20 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]無線衛星新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]Asian Action
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/asianaction/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]Astro AEC
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/astroaec/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]Celestial Movies
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]CINEMAWORLD
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]FIGHT SPORTS
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]KIX
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch38/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]Mediacorp Entertainment Chinese
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]NBA TV
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Sukan
@@ -530,6 +538,10 @@ http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch90/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]TV9
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]TVB Jade
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]TVB Xing He
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Unifi Sport
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]曼聯電視頻道
@@ -593,4 +605,4 @@ http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]viuTV
 http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-###更新时间：2025_03_17 06:18:37.031
+###更新时间：2025_03_17 18:24:48.929
