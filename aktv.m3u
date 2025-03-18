@@ -89,8 +89,6 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Asian Action
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/asianaction/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]Astro AEC
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/astroaec/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Celestial Movies
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]CINEMAWORLD
@@ -133,12 +131,8 @@ http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]台視新聞
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]寰宇新聞台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]愛爾達娛樂台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]東森新聞台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]民視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]民視台灣台
@@ -165,12 +159,6 @@ http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Astro 欢喜台
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]C+
-http://aktv_stream1.m16tv.cfd/stream/tuntun/c/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]Love Nature 4K
-http://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]Red Bull Sports
-http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]NTV NEWS 24
 http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]viuTV
