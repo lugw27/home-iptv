@@ -286,4 +286,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1,tvg-id="TVB J1" tvg-name="TVB J1" tvg-logo="https://epg.v1.mk/logo/TVBJ1.png" group-title="自定义",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1,tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="自定义",rthk31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1,tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://epg.v1.mk/logo/rthk32.png" group-title="自定义",rthk32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
