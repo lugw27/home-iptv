@@ -482,6 +482,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Love Nature HD
 http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]National Geographic
+http://aktv_stream1.m16tv.cfd/stream/aktv2/nationalgeographic/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]无线新闻台(北美)
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]東森新聞
@@ -538,6 +540,8 @@ http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]曼聯電視頻道
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]朝鮮恩情台
+http://aktv_stream1.m16tv.cfd/stream/nknews/null/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]ELTV生活英語台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]三立新聞iNEWS
@@ -575,4 +579,4 @@ http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]viuTV
 http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-###更新时间：2025_03_25 06:20:47.766
+###更新时间：2025_03_25 18:24:44.331
