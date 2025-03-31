@@ -566,9 +566,9 @@ http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]PAC12
 http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]Tennis Channel
+#EXTINF:-1 group-title="aktv",[aktv]Tennis Channel DE
 http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]台
+#EXTINF:-1 group-title="aktv",[aktv]緯來體育
 http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Astro Football
 http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
@@ -578,9 +578,11 @@ http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Astro 欢喜台
 http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]NTV NEWS 24
-http://aktv-stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]Tennis Channel 2 US
+http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]Tennis Channel US
+http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]viuTV
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-###更新时间：2025_03_31 06:19:00.331
+###更新时间：2025_03_31 18:24:57.639
