@@ -576,8 +576,6 @@ http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Astro 欢喜台
 http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]MTV LIVE US
-http://aktv-stream.m16tv.cfd/stream/tuntun/mtvliveus/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Red Bull Sports
 http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]YES network
@@ -592,7 +590,9 @@ http://aktv-stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Tennis Channel US
 http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]US MTV LIVE
+http://aktv-stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]viuTV
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-###更新时间：2025_04_03 18:23:54.910
+###更新时间：2025_04_04 06:19:46.496
