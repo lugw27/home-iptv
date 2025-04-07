@@ -556,8 +556,6 @@ http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]龍華日韓台
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]龍華經典台
-http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]龍華電影台
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]beIN SPORTS XTRA
@@ -595,4 +593,4 @@ http://aktv-stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]viuTV
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-###更新时间：2025_04_07 06:18:56.375
+###更新时间：2025_04_07 18:25:39.345
