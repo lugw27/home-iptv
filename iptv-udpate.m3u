@@ -566,6 +566,8 @@ http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]緯來體育
 http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+#EXTINF:-1 group-title="aktv",[aktv]Asian Action
+http://aktv-stream.m16tv.cfd/stream/tuntun/asianaction/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Astro Football
 http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Astro IQIYI
@@ -593,4 +595,4 @@ http://aktv-stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]viuTV
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-###更新时间：2025_04_08 18:24:57.516
+###更新时间：2025_04_09 06:20:23.029
