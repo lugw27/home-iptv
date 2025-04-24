@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="aktv",[aktv]Channel 5 HD
-http://aktv_stream.m16tv.cfd/stream/aktv1/channel5hd/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]Channel 8 HD
-http://aktv_stream.m16tv.cfd/stream/aktv1/channel8hd/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]Channel U HD
-http://aktv_stream.m16tv.cfd/stream/aktv1/channeluhd/AKTV.m3u8
-#EXTINF:-1 group-title="aktv",[aktv]TVB Plus
-http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]Animax(HK)
 http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
 #EXTINF:-1 group-title="aktv",[aktv]AXN
