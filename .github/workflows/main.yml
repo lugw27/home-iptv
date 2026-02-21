@@ -23,6 +23,7 @@ jobs:
         env:
           hkdvb_token: ${{ secrets.HKDVB_TOKEN  }}
         run: |
+          Install-Module -Name PSParseHTML
           ./run.ps1
       - name: push changes
         run: |
