@@ -21,6 +21,7 @@ jobs:
       - name: run
         shell: pwsh
         env:
+          iptv_url: ${{ secrets.IPTV_URL  }}
           hkdvb_token: ${{ secrets.HKDVB_TOKEN  }}
         run: |
           Install-Module -Name PSParseHTML -Force -SkipPublisherCheck
