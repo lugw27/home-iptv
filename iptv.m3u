@@ -280,6 +280,7 @@ http://192.168.99.254:6666/udp/239.77.0.182:5146/
 
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="自定义",翡翠台
 http://hls.168.us.kg/u/81/master.m3u8
+http://mytv.cdn.loc.cc/o12.php?id=fct
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="自定义",无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
