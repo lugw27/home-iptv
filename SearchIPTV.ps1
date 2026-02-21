@@ -3,16 +3,17 @@ $outputFile = "./SearchIPTV.m3u"
 
 $content = Get-Content $templateFile -Encoding utf8
 
-$result=@()
+$result = @()
 foreach ($line in $content)
 {
-    $head=$line.Split('!!')[0]
+    $head = $line.Split('!!')[0]
     $keyword = $head.Split(",")[-1]
-    $excludeWords=$line.Split("!!").Split("|")
+    $excludeWords = $line.Split("!!").Split("|")
     $body = @{
         "seerch" = $keyword
         "Submit" = "+"
-        "city"   = "e632c727e2.7589241763811"
+        "name"   = "NjU1Nzkz"
+        "city"   = "a17060b392.7589241763811"
     }
     $r = Invoke-RestMethod -Uri "https://tonkiang.us/" `
         -Method Post `
@@ -23,7 +24,7 @@ foreach ($line in $content)
     $html = ConvertFrom-HTML -Content (Optimize-HTML -Content $r) -Engine AngleSharp
     $selector = $html.QuerySelectorAll('html body div div div.resultplus')
 
-    $result+=$head
+    $result += $head
     foreach ($i in $selector)
     {
         try
@@ -36,10 +37,11 @@ foreach ($line in $content)
             continue
         }
         
-        if ($name -notin $excludeWords){
-            $result+=$link
+        if ($name -notin $excludeWords)
+        {
+            $result += $link
         }
     }
 }
 
-$result|select -Unique|Out-File $outputFile -Encoding utf8
+$result | select -Unique | Out-File $outputFile -Encoding utf8
