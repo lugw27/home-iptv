@@ -294,45 +294,45 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="SearchIPTV",翡翠台
-https://hls.iill.top/api/TVB-Jade/index.m3u8
-https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
-http://hls.168.us.kg/u/81/master.m3u8
 http://74.91.26.218:82/live/jade.m3u8
+https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+http://hls.168.us.kg/u/81/master.m3u8
+https://hls.iill.top/api/TVB-Jade/index.m3u8
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 https://stream1.freetv.fun/1c0223fe93d3aaca762184373a28af2c274b504a8af9798d4aa3d06c65de3260.m3u8
 https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 http://o11.163189.xyz/stream/live/hlt/
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+http://o11.163189.xyz/stream/tvb/fct/
+http://o11.163189.xyz/stream/live/jade/
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 https://o11.163189.xyz/stream/live/jade/
-http://o11.163189.xyz/stream/live/jade/
-http://o11.163189.xyz/stream/tvb/fct/
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-http://47.242.63.189/livehttpplay?channel_id=13027
 https://o11.163189.xyz/stream/live/hlt/
 http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com/smt.php?id=jade_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 http://api.kkitv.itv888.vip:8080/streams/jutaw8wu0j9/index.m3u8
+http://v2h.veryfast.filegear-sg.me/live/fct/stream.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="SearchIPTV",无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 http://rihou.cc:555/tv/[Mt]无线新闻
-https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 https://stream1.freetv.fun/72987f3fa96af219332cc264f14fbe126748e5dae4c53c74f45f3856e926756e.m3u8
+https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 http://74.91.26.218:82/live/inews.m3u8
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 http://hls.168.us.kg/u/83/master.m3u8
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 https://epg.pw/stream/19d1cd44fca23238190d5ada7b08552382bf391f77d6b4348f3e3ae56afe7c9f.m3u8
 http://php.jdshipin.com/smt.php?id=inews_twn
@@ -354,8 +354,8 @@ https://epg.pw/stream/8a901f8dbc93b286fc53ceceda0a7198f41dfd91a2ca2a528e314aea87
 http://iptv.4666888.xyz/iptv2A.php?id=23
 http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
@@ -661,4 +661,4 @@ https://cdn6.163189.xyz/163189/asam
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://live.fanmingming.cn/tv/澳门综艺.png" group-title="港澳台频道",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
-###更新时间：2026_03_01 18:31:09.842
+###更新时间：2026_03_02 06:29:06.443
