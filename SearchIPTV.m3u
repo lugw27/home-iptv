@@ -1,5 +1,5 @@
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="SearchIPTV",翡翠台
-http://49.234.31.101:7011/
+http://120.238.94.82:9901/
 https://hls.iill.top/api/TVB-Jade/index.m3u8
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 http://74.91.26.218:82/live/jade.m3u8
@@ -29,8 +29,8 @@ http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="SearchIPTV",无线新闻
 https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-http://rihou.cc:555/tv/[Pd]无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+http://rihou.cc:555/tv/[Pd]无线新闻
 http://74.91.26.218:82/live/inews.m3u8
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
