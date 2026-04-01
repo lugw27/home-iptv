@@ -294,7 +294,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="SearchIPTV",翡翠台
-http://120.196.235.42:9901/
+http://49.234.31.101:7011/
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
 http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
@@ -303,8 +303,8 @@ http://74.91.26.218:82/live/jade.m3u8
 https://hls.iill.top/api/TVB-Jade/index.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
-http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 http://o11.163189.xyz/stream/live/hlt/
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
 http://o11.163189.xyz/stream/tvb/fct/
@@ -657,4 +657,4 @@ https://cdn6.163189.xyz/163189/asam
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://live.fanmingming.cn/tv/澳门综艺.png" group-title="港澳台频道",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
-###更新时间：2026_04_01 19:03:02.074
+###更新时间：2026_04_02 06:42:00.776
