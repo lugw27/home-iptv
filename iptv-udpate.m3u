@@ -296,25 +296,23 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="SearchIPTV",翡翠台
 http://120.238.94.82:9901/
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
 http://74.91.26.218:82/live/jade.m3u8
-http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
 https://hls.iill.top/api/TVB-Jade/index.m3u8
-http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 http://o11.163189.xyz/stream/live/hlt/
 http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
 http://o11.163189.xyz/stream/tvb/fct/
 http://67.220.71.199:2347/livehttpplay?channel_id=30025
 http://o11.163189.xyz/stream/live/jade/
 https://o11.163189.xyz/stream/live/jade/
-http://cdn6.veryfast.filegear-sg.me/live/jade/stream.m3u8
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 https://o11.163189.xyz/stream/live/hlt/
+http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 http://php.jdshipin.com/smt.php?id=jade_twn
 http://hls.168.us.kg/u/81/master.m3u8
@@ -322,16 +320,18 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="SearchIPTV",无线新闻
 https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 http://rihou.cc:555/tv/[Pd]无线新闻
+http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 http://74.91.26.218:82/live/inews.m3u8
 http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-http://v2h.veryfast.filegear-sg.me/live/wxxwt/stream.m3u8
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 http://67.220.71.199:2347/livehttpplay?channel_id=20123
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 http://rihou.cc:555/tv/[Mt]无线新闻
 http://php.jdshipin.com/smt.php?id=inews_twn
 https://cdn6.101.qzz.io/163189/wxxw
@@ -340,19 +340,20 @@ http://rihou.cc:555/tv/[PL]无线新闻
 http://rihou.cc:555/tv/[Bx]无线新闻
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
-https://ali.hlspull.yximgs.com/live/167_wxxw.flv
 http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
+https://ali.hlspull.yximgs.com/live/167_wxxw.flv
 http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&amp;ct=19249&amp;tsum=88c5d57f9fdce89810d61e1001910a80
 http://vallest.uk/livehttpplay?channel_id=20123
 http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476925.m3u8
+https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="SearchIPTV",rthk31
 http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=23
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
@@ -657,4 +658,4 @@ https://cdn6.163189.xyz/163189/asam
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://live.fanmingming.cn/tv/澳门综艺.png" group-title="港澳台频道",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
-###更新时间：2026_04_03 18:49:26.717
+###更新时间：2026_04_04 06:38:08.472
