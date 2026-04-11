@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.v1.mk/fy.xml"
+
 #EXTINF:-1 group-title="粤港",广东卫视高清
 http://192.168.99.254:6666/udp/231.2.3.1:5005
 http://192.168.99.254:6666/udp/231.2.4.1:5005
@@ -682,4 +685,4 @@ https://cdn6.163189.xyz/163189/asam
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://live.fanmingming.cn/tv/澳门综艺.png" group-title="港澳台频道",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
-###更新时间：2026_04_11 18:47:49.878
+###更新时间：2026_04_11 18:50:39.140
