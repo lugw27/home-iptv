@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.v1.mk/fy.xml"
+
 #EXTINF:-1 group-title="粤港",广东卫视高清
 http://192.168.99.254:6666/udp/231.2.3.1:5005
 http://192.168.99.254:6666/udp/231.2.4.1:5005
