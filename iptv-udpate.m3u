@@ -324,8 +324,6 @@ http://192.168.99.254:6666/udp/231.2.4.30:5005
 http://192.168.99.254:6666/udp/231.3.15.12:5005
 http://192.168.99.254:6666/udp/231.3.16.12:5005
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="SearchIPTV",翡翠台
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
-http://smart.cityq.xyz:8278/jade_twn/playlist.m3u8?tid=MAFA8142395181423951&amp;ct=20075&amp;tsum=cd432288b12be8775123af37f179d76d
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="SearchIPTV",无线新闻
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 http://rihou.cc:555/tv/[Bx]无线新闻
@@ -619,4 +617,4 @@ https://cdn6.163189.xyz/163189/asam
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://live.fanmingming.cn/tv/澳门综艺.png" group-title="港澳台频道",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
-###更新时间：2026_04_17 19:02:05.317
+###更新时间：2026_04_18 06:47:16.294
