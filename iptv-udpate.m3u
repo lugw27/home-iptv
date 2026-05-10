@@ -324,17 +324,17 @@ http://192.168.99.254:6666/udp/231.2.4.30:5005
 http://192.168.99.254:6666/udp/231.3.15.12:5005
 http://192.168.99.254:6666/udp/231.3.16.12:5005
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="SearchIPTV",翡翠台
-http://49.234.31.101:7011/
+http://120.238.94.82:9901/
 http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
-https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
-http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
 http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
+https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
 http://74.91.26.218:82/live/jade.m3u8
+http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
 http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWgyzCqbx5qejNt8QZe8vZnBjRBl6PF&amp;h=dbmlasvgas.sylu.cc&amp;p=18081&amp;q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D77cf2410%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3De6138dc56bb55f5451e1c6f5ac251f16
 http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWgyzCqb6564jNt8QZe8vZnBjRBl6PF&amp;h=dbmlasvgas.sylu.cc&amp;p=18081&amp;q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D66dd1b8b%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd524d6abb36143066cd87fe76d6fbecc
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 http://o11.163189.xyz/stream/live/hlt/
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 http://o11.163189.xyz/stream/tvb/fct/
 http://67.220.71.199:2347/livehttpplay?channel_id=30025
 http://o11.163189.xyz/stream/live/jade/
@@ -378,8 +378,8 @@ http://vallest.uk/livehttpplay?channel_id=20123
 http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476925.m3u8
 https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="SearchIPTV",rthk31
-http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=23
+http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
@@ -687,4 +687,4 @@ https://cdn6.163189.xyz/163189/asam
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://live.fanmingming.cn/tv/澳门综艺.png" group-title="港澳台频道",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
-###更新时间：2026_05_10 19:02:27.267
+###更新时间：2026_05_11 06:53:07.211
