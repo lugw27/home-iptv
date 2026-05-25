@@ -324,7 +324,7 @@ http://192.168.99.254:6666/udp/231.2.4.30:5005
 http://192.168.99.254:6666/udp/231.3.15.12:5005
 http://192.168.99.254:6666/udp/231.3.16.12:5005
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="SearchIPTV",翡翠台
-http://120.238.94.82:9901/
+http://120.196.235.42:9901/
 http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
 http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
 http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
@@ -687,4 +687,4 @@ https://cdn6.163189.xyz/163189/asam
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://live.fanmingming.cn/tv/澳门综艺.png" group-title="港澳台频道",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
-###更新时间：2026_05_25 21:31:50.970
+###更新时间：2026_05_26 07:09:20.029
