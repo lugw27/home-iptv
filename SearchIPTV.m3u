@@ -1,12 +1,11 @@
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="SearchIPTV",翡翠台
-http://120.196.235.42:9901/
+http://49.234.31.101:7011/
 http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
-http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
 http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
+http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
 https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
 http://74.91.26.218:82/live/jade.m3u8
 https://test.946985.filegear-sg.me/proxy/5d5c47fa663940ad
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 http://o11.163189.xyz/stream/live/hlt/
 http://o11.163189.xyz/stream/tvb/fct/
 http://67.220.71.199:2347/livehttpplay?channel_id=30025
@@ -16,6 +15,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j1
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 https://o11.163189.xyz/stream/live/hlt/
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
 http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWgyzCqb6564jNt8QZe8vZnBjRBl6PF&amp;h=dbmlasvgas.sylu.cc&amp;p=18081&amp;q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D66dd1b8b%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd524d6abb36143066cd87fe76d6fbecc
 http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWgyzCqbx5qejNt8QZe8vZnBjRBl6PF&amp;h=dbmlasvgas.sylu.cc&amp;p=18081&amp;q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D77cf2410%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3De6138dc56bb55f5451e1c6f5ac251f16
@@ -66,8 +66,8 @@ http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&amp;ct=
 https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MEFE5444496454444964&amp;ct=19234&amp;tsum=d47d918a346b323bcbbbce0dac0192c5
 #EXTINF:-1,tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://epg.v1.mk/logo/rthk32.png" group-title="SearchIPTV",rthk32
-http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 http://198.16.100.186:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&amp;ct=19249&amp;tsum=763ebe53fc33677d02ebf83b4d558d33
