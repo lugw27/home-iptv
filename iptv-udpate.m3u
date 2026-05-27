@@ -326,9 +326,10 @@ http://192.168.99.254:6666/udp/231.3.16.12:5005
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="SearchIPTV",翡翠台
 http://49.234.31.101:7011/
 http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
-http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
-http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
 https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
+http://112.92.128.71:9003/hls/53/index.m3u8
+http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
+http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
 http://74.91.26.218:82/live/jade.m3u8
 https://test.946985.filegear-sg.me/proxy/5d5c47fa663940ad
 http://o11.163189.xyz/stream/live/hlt/
@@ -379,8 +380,8 @@ https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="SearchIPTV",rthk31
 http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-http://iptv.4666888.xyz/iptv2A.php?id=23
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+http://iptv.4666888.xyz/iptv2A.php?id=23
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
@@ -687,4 +688,4 @@ https://cdn6.163189.xyz/163189/asam
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://live.fanmingming.cn/tv/澳门综艺.png" group-title="港澳台频道",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
-###更新时间：2026_05_27 07:12:32.292
+###更新时间：2026_05_28 07:19:18.616
